@@ -4,6 +4,7 @@
 | --- | --- |  
 | 频道加白 | [点击跳转](https://doc.weixin.qq.com/sheet/e3_AZAApQYsAEstYHx73XxTl2QvRDBMn?scode=AJEAIQdfAAoSod5T6hAJMAFwbLACk&tab=BB08J2) |  
 | 疑问咨询 | [点击跳转](https://doc.weixin.qq.com/sheet/e3_AJMAFwbLACk2g12ANypSlygAs1i02?scode=AJEAIQdfAAo40m06UhAJMAFwbLACk&tab=BB08J2) |  
+| 疑问咨询（新） | [点击跳转](https://docs.qq.com/sheet/DRE55cEtzdkh1UmRR?tab=BB08J2) |
 | 报名地址 | [点击跳转](https://wj.qq.com/s2/13032454/064f) |  
 
 # 文档目录
